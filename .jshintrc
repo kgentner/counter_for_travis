@@ -13,7 +13,6 @@
     "equal"      : false
   },
   "globalstrict": true,
-  "quotmark": false,
   "smarttabs": true,
   "trailing": true,
   "browser": true,
