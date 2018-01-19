@@ -2,9 +2,5 @@
   "preset": "airbnb",
   "requireMultipleVarDecl": null,
   "validateQuoteMarks": true,
-  "disallowMultipleVarDecl": true,
-  "requireSpacesInAnonymousFunctionExpression": {
-    "beforeOpeningRoundBrace": true,
-    "beforeOpeningCurlyBrace": true
-  }
+  "disallowMultipleVarDecl": true
 }
